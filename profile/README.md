@@ -1,4 +1,4 @@
-<img src="https://shop.snapt.net/style/img/logo.png" alt="" style="width: 200px; height: auto;">
+<img src="https://shop.snapt.net/style/img/logo-footer.png" alt="">
 
 ## Modern load balancing and security on-demand
 Snapt is the only modern, unified application delivery platform providing security, visibility, and control for traditional, cloud-native, and hybrid environments. Every option is free to try. 
